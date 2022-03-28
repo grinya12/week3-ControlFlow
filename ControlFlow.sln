@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{FE96875C-6DD7-423C-92AA-6E319A639D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalityTestSwitch", "PersonalityTestSwitch\PersonalityTestSwitch.csproj", "{841788E7-4310-425B-BE40-529FA06E0D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradingif", "Gradingif\Gradingif.csproj", "{6C19BA9A-ABDD-490F-B403-5811F71CB6ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingSwitch", "GradingSwitch\GradingSwitch.csproj", "{3EA27FCF-A121-44A2-8BFB-8B73CD66E505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE96875C-6DD7-423C-92AA-6E319A639D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE96875C-6DD7-423C-92AA-6E319A639D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE96875C-6DD7-423C-92AA-6E319A639D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE96875C-6DD7-423C-92AA-6E319A639D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841788E7-4310-425B-BE40-529FA06E0D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841788E7-4310-425B-BE40-529FA06E0D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841788E7-4310-425B-BE40-529FA06E0D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841788E7-4310-425B-BE40-529FA06E0D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C19BA9A-ABDD-490F-B403-5811F71CB6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C19BA9A-ABDD-490F-B403-5811F71CB6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C19BA9A-ABDD-490F-B403-5811F71CB6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C19BA9A-ABDD-490F-B403-5811F71CB6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA27FCF-A121-44A2-8BFB-8B73CD66E505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA27FCF-A121-44A2-8BFB-8B73CD66E505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA27FCF-A121-44A2-8BFB-8B73CD66E505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA27FCF-A121-44A2-8BFB-8B73CD66E505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E75DB2C-ECFA-455C-8E90-C82DB00247A5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\bin\Debug\net5.0\GradingSwitch.exe
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\bin\Debug\net5.0\GradingSwitch.deps.json
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\bin\Debug\net5.0\GradingSwitch.runtimeconfig.json
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\bin\Debug\net5.0\GradingSwitch.runtimeconfig.dev.json
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\bin\Debug\net5.0\GradingSwitch.dll
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\bin\Debug\net5.0\ref\GradingSwitch.dll
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\bin\Debug\net5.0\GradingSwitch.pdb
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\obj\Debug\net5.0\GradingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\obj\Debug\net5.0\GradingSwitch.AssemblyInfoInputs.cache
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\obj\Debug\net5.0\GradingSwitch.AssemblyInfo.cs
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\obj\Debug\net5.0\GradingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\obj\Debug\net5.0\GradingSwitch.dll
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\obj\Debug\net5.0\ref\GradingSwitch.dll
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\obj\Debug\net5.0\GradingSwitch.pdb
+C:\Users\Grinya\source\repos\ControlFlow\GradingSwitch\obj\Debug\net5.0\GradingSwitch.genruntimeconfig.cache
